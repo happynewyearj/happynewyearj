@@ -23,7 +23,7 @@ A beautiful, interactive New Year celebration web app with fireworks, confetti, 
 
 ```bash
 # Clone repository
-git clone https://github.com/happynewyear2026/happynewyear2026.github.io.git
+git clone https://github.com/happynewyear2026/happynewyearj.github.io.git
 
 # Open in browser
 open index.html
