@@ -7,7 +7,7 @@ A beautiful, interactive New Year celebration web app with fireworks, confetti, 
 
 ## 🌐 Live Demo
 
-**[https://happynewyear2026.github.io](https://happynewyearj.github.io)**
+**[https://happynewyearj.github.io](https://happynewyearj.github.io)**
 
 ## ✨ Features
 
