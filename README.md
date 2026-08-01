@@ -63,7 +63,7 @@ Chrome, Firefox, Safari, Edge, iOS Safari, Android Chrome ✅
 
 ## 📝 License
 
-[MIT](LICENSE) © 2024 Happy New Year 2026
+[MIT](LICENSE) © 2024 Happy New Year 2027
 
 ---
 
